@@ -3,3 +3,8 @@
 1509840737747	Rename type 'weapon'
 1509851519453	Rename type 'Players'
 1509852811993	Rename type 'pawns'
+1509882898654	Delete element
+1509882913044	Rename type 'notebooks'
+1509883929950	Encapsulate field 'rooms'
+1509884163932	Encapsulate field 'hypothesis'
+1509884215151	Encapsulate field 'hypothesis'

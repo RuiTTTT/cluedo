@@ -32,7 +32,9 @@ public class Pawns {
 		return isSuspect;
 	}
 	
-	public void setCard(Cards card) {
-		this.cardsHold.add(card);
+	public void setCard(Cards cardA, Cards cardB, Cards cardC) {
+		this.cardsHold.add(cardA);
+		this.cardsHold.add(cardB);
+		this.cardsHold.add(cardC);
 	}
 }
