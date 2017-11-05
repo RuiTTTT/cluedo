@@ -1,0 +1,23 @@
+package data;
+
+public class Room {
+	private String name;
+	private boolean isClue;
+	
+	public Room(String name) {
+		this.name = name;
+	}
+	
+	public String getName() {
+		return name;
+	}
+	
+	public void setClue() {
+		isClue = true;
+	}
+	
+	public boolean isClue() {
+		return isClue;
+	}
+	
+}

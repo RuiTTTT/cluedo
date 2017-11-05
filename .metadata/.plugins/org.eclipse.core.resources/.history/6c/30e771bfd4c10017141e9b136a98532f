@@ -1,0 +1,8 @@
+package data;
+
+public class Weapon {
+	private Weapon name;
+	private boolean isClue;
+	
+	public Weapon()
+}

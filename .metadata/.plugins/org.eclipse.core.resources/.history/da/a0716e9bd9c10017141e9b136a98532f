@@ -1,0 +1,8 @@
+package data;
+
+public abstract class Cards {
+	public enum cardType {SUSPECTS, WEAPONS, ROOMS}
+	public final String[] WEAPONS = {Weapon.CANDLESTICK, Weapon.KNIFE, Weapon.LEADPIPE, Weapon.POISON, Weapon.REVOLVER, Weapon.ROPE};
+	
+	
+}
